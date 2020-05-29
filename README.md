@@ -25,33 +25,31 @@ The following questions were answered through my analysis:
 ## Actionable Insight
 
 * Microsoft should enter the movie studio business.
-** The market trajectory is growing and with movie theaters opening up soon, the customer base will look to seek entertainment.
+    * The market trajectory is growing and with movie theaters opening up soon, the customer base will look to seek entertainment.
 * Action, Action, and more Action.
-** The number one priority should be to make action movies as it is the most profitable genre.
+    * The number one priority should be to make action movies as it is the most profitable genre.
 * Focus on a global audience.
-** Movies that focus on a global audience obtain a greater overall net revenue.
+    * Movies that focus on a global audience obtain a greater overall net revenue.
 
 
 ## Recommendations
 
 * Utilize proprietary technologies and resources to create movies.
-** Although action movies are the most profitable and typically require CGI nowadays, among the top 5 profitable genres are animation movies. 
+    * Although action movies are the most profitable and typically require CGI nowadays, among the top 5 profitable genres are animation movies. 
 * Focus on making films with mass global appeal.
-** There is a strong correlation between films that generate large net revenue if and when they generate large worldwide lifetime gross.
+    * There is a strong correlation between films that generate large net revenue if and when they generate large worldwide lifetime gross.
 * Manufacture a win from a slowed down market.
-** Now is the time to develop movies as the customer base is vigorously awaiting the return of movies on the big screen. 
+    * Now is the time to develop movies as the customer base is vigorously awaiting the return of movies on the big screen. 
 * Adapt/create a cinematic franchise, or at the very least create movies with sequels/prequels.
-** Ideally buying out, but could also enter a licensing agreement to adapt an obscure, yet has a cult-like following, comic-book/video game series.
+    * Ideally buying out, but could also enter a licensing agreement to adapt an obscure, yet has a cult-like following, comic-book/video game series.
 
 
 # Future work
 
 * Compare the net revenue of films that belong to collections versus those that don’t.
 * More statistical analysis to derive a clearer picture of the movie industry.
-** Incorporating other variables I already obtained like popularity and the length of movies. 
+    * Incorporating other variables I already obtained like popularity and the length of movies. 
 * Pulled more data.
-** Retrieval of additional information about movies: the names of actors, producers, directors etc., the period in which the movie was released (season, holiday, etc). 
+    * Retrieval of additional information about movies: the names of actors, producers, directors etc., the period in which the movie was released (season, holiday, etc). 
 * Cross-reference the movie data to streaming service data.
-** Have the trends moved now that we are in the rise of the digital streaming age with organizations like Netflix, Hulu, and Disney+. 
-
-![Alt Text](/Users/jv/Documents/Flatiron/Final_Projects/dsc-mod-1-project-v2-1-nyc01-dtsc-ft-051120/Top_25_Movie_Studios.png)
+    * Have the trends moved now that we are in the rise of the digital streaming age with organizations like Netflix, Hulu, and Disney+. 
